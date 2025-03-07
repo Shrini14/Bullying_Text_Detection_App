@@ -14,5 +14,5 @@ A **Streamlit-based web application** that detects whether a given text contains
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/bullying-text-detection.git
+git clone https://github.com/Shrini14/Bullying-Text-Detection_App.git
 cd bullying-text-detection
