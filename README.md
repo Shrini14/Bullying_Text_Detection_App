@@ -1,18 +1,25 @@
 # 🚨 Bullying Text Detection App
 
-A **Streamlit-based web application** that detects whether a given text contains bullying content using **Natural Language Processing (NLP)**.
+A **Streamlit-powered web application** that uses **Natural Language Processing (NLP)** to detect bullying or abusive language in text messages.
 
-## 🌟 Features
-- 📝 **Text Classification**: Detects bullying content using a trained ML model.
-- 🎨 **User-friendly UI**: Aesthetic and easy-to-use interface.
-- 🚀 **Fast & Efficient**: Uses **TF-IDF** and **Linear SVC** for prediction.
-- 🔧 **Customizable**: Easily replace the model or add more training data.
+🔗 **Live App**: [Click to Try the App](https://bullyingtextdetectionapp.streamlit.app/)
 
 ---
 
-## 🛠 Installation & Setup
+## 🌟 Features
 
-### 1️⃣ **Clone the Repository**
+- 🧠 **Text Classification**: Accurately detects bullying content in real-time.
+- 📚 **TF-IDF + Linear SVC**: Lightweight and fast-performing ML model.
+- 🎨 **Modern UI**: Simple, clean, and responsive Streamlit design.
+- ⚡ **Fast Inference**: Works instantly with minimal delay.
+- 🧩 **Easy to Extend**: Plug in your own dataset or model.
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/Shrini14/Bullying-Text-Detection_App.git
 cd Bullying-Text-Detection_App
